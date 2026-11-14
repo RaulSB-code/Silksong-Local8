@@ -1,3 +1,5 @@
+![Silksong Local8 — 8-player co-op](https://github.com/user-attachments/assets/40c5edf0-326a-45aa-995b-318024948546)
+
 # Silksong Local8
 
 **Experimental public beta · Local co-op for up to 8 players**
