@@ -49,9 +49,7 @@ Use **F8 → Reports → Capture report for this room**, then open the reports f
 
 ## Development and credits
 
-Cover based on a handmade collage supplied by the author, with AI retouching to clean edges and adjust depth of field. It is included in `artwork/HK8SILKSONG.png`; it is promotional artwork, not a gameplay screenshot.
-
-Developed by **RaulSB-code**, using ChatGPT/Codex to generate and review code and documentation. This beta is being tested and revised; the test results do not certify the whole campaign.
+This mod has been possible thanks to AI. I know a lot of people aren't fans of using AI to make mods, but this mod wouldn't exist without its help.
 
 Cloth-colour resources are adapted from **Michael4d45's HornetCloakColor 1.16.1**, under the MIT licence: https://github.com/Michael4d45/HornetCloakColor. The original licence notice is included. Thanks to the BepInEx and Harmony projects. Hollow Knight: Silksong belongs to Team Cherry. This is an unofficial fan mod.
 
