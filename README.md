@@ -18,9 +18,7 @@ This is local co-op. It does not add online multiplayer.
 
 ## Before you play
 
-This is a testing release. The full campaign has not been verified from start to finish. The opening weakness events, the final collapse and Churchkeeper conversation in Bonetown, special transport and interrupted interactions still need more in-game testing. Visual effects, translations and performance with larger groups are also being reviewed.
-
-Use a separate save or back up your save before testing. If an event leaves a player without controls, capture a report before restarting when possible.
+This is a testing release. The full campaign has not been verified from start to finish.
 
 ## Compatibility
 
