@@ -34,7 +34,6 @@ Install **SilksongLocal8** from the Silksong catalog in a Thunderstore-compatibl
 
 1. Install BepInEx 5.4.23.4 for Silksong and launch the game once.
 2. Close the game. Extract the `BepInEx` folder from this package into the game folder. The plugin belongs at `BepInEx/plugins/SilksongLocal8/SilksongLocal8.dll`.
-3. Check for an older copy of `SilksongLocal8.dll` elsewhere in `BepInEx/plugins` and remove that duplicate before launching. Keep your configuration and saves.
 4. Enter a save, press **F8**, select an empty player slot and choose a controller or keyboard. Close F8 to join the game.
 
 P1 uses the game's control settings. Set the extra players' bindings in F8 and select **Apply changes** when editing them. The normal view after adding players is one shared screen, not split-screen.
